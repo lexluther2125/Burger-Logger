@@ -1,0 +1,27 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM. Follows MVC design pattern and uses Node and MySQL to query and route data and Handlebars to generate HTML. ",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexluther2125/burger.git"
+  },
+  "author": "Lexi Majoue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lexluther2125/burger/issues"
+  },
+  "homepage": "https://github.com/lexluther2125/burger#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.9",
+    "mysql": "^2.14.1"
+  }
+}
