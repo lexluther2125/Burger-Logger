@@ -1,4 +1,4 @@
-# burger
+# Burger Logger
 
 Class Instructions:
 
